@@ -1,7 +1,5 @@
 # Sparse matrix 
 
-# Matrix class
-
 ## Set up
 Clone the repository with the command: 
 ```bash
